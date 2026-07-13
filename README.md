@@ -32,3 +32,9 @@ This program asks for you to type a city and after that it shows you:
 - Weather in degrees Celsius
 - Weather Description
 If you type an invalid name of a city the program lets you know the city wasn't found.
+
+
+Project 5: File Organizer
+This program asks you to type the path to a folder. It reads all the files in it, 
+splits each file name by the "." to get its extension, and then uses an if/elif 
+to move each file to a folder based on its type (code, documents, images, or others).
